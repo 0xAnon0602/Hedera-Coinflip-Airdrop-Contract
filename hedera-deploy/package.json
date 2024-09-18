@@ -1,0 +1,10 @@
+{
+  "name": "staking_contract",
+  "version": "1.0.0",
+  "description": "Hedera Monkey Staking Contract\t",
+  "main": "index.js",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.18.2",
+    "dotenv": "^16.0.3"
+  }
+}
